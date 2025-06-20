@@ -635,4 +635,4 @@
     <footer>&copy; 2025 Proyecto de Acuaponía. Todos los derechos reservados.</footer>
 </body>
 
-</html>
+</html> 
